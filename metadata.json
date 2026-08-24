@@ -1,0 +1,6 @@
+{
+  "name": "GoMemo",
+  "description": "Your Places. Your Memories. Social memory and location app for saving places, photos, memories, and connecting with users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
